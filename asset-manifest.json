@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7BReact-Meetups%7D/static/css/main.aa69bed2.chunk.css",
+    "main.js": "/%7BReact-Meetups%7D/static/js/main.264b360a.chunk.js",
+    "main.js.map": "/%7BReact-Meetups%7D/static/js/main.264b360a.chunk.js.map",
+    "runtime-main.js": "/%7BReact-Meetups%7D/static/js/runtime-main.a1a9fac9.js",
+    "runtime-main.js.map": "/%7BReact-Meetups%7D/static/js/runtime-main.a1a9fac9.js.map",
+    "static/js/2.8a3537ad.chunk.js": "/%7BReact-Meetups%7D/static/js/2.8a3537ad.chunk.js",
+    "static/js/2.8a3537ad.chunk.js.map": "/%7BReact-Meetups%7D/static/js/2.8a3537ad.chunk.js.map",
+    "index.html": "/%7BReact-Meetups%7D/index.html",
+    "static/css/main.aa69bed2.chunk.css.map": "/%7BReact-Meetups%7D/static/css/main.aa69bed2.chunk.css.map",
+    "static/js/2.8a3537ad.chunk.js.LICENSE.txt": "/%7BReact-Meetups%7D/static/js/2.8a3537ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a9fac9.js",
+    "static/js/2.8a3537ad.chunk.js",
+    "static/css/main.aa69bed2.chunk.css",
+    "static/js/main.264b360a.chunk.js"
+  ]
+}
